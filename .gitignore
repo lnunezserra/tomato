@@ -9,3 +9,5 @@ __pycache__/
 
 # VS Code's settings for this folder (each person has their own)
 .vscode/
+.DS_Store
+
